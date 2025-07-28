@@ -1,1 +1,1 @@
-# SarifDependencyBugBash
+test
